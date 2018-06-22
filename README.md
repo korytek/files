@@ -1,0 +1,2 @@
+# files
+Allow manage files.
